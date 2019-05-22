@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ajafik/node-tools/issues"
   },
-  "homepage": "https://github.com/ajafik/node-tools#readme"
+  "homepage": "https://github.com/ajafik/node-tools#readme",
+  "dependencies": {
+    "wifi-password": "^3.0.1"
+  }
 }
