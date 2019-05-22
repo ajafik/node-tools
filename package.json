@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ajafik/node-tools#readme",
   "dependencies": {
+    "is-online": "^8.2.0",
     "wifi-password": "^3.0.1"
   }
 }
