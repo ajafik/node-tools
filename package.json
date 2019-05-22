@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ajafik/node-tools#readme",
   "dependencies": {
+    "get-port": "^5.0.0",
     "getmac": "^1.4.6",
     "ipify": "^3.0.0",
     "is-online": "^8.2.0",
