@@ -1,7 +1,7 @@
 {
   "name": "tools",
   "version": "1.0.0",
-  "description": "",
+  "description": "NodeJS Tools and Hacks",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ajafik/node-tools.git"
   },
-  "author": "",
+  "author": "Oluwafikayo Ajayi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ajafik/node-tools/issues"
