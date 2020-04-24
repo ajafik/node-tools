@@ -24,6 +24,7 @@
     "os-locale": "^3.1.0",
     "pretty-ms": "^5.0.0",
     "public-ip": "^3.1.0",
+    "shelljs": "^0.8.3",
     "wifi-password": "^3.0.1"
   }
 }
